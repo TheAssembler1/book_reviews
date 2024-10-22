@@ -1,0 +1,16 @@
+author = 
+book_title = 
+
+[dates]
+read_date_start = 
+read_date_end = 
+publication_date_end
+
+[reviews]
+spoiler_review = """
+
+"""
+
+no_spoiler_review = """
+
+"""
